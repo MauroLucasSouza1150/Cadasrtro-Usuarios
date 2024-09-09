@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  width: 100vw;
+  background: linear-gradient(180deg, rgb(0, 157, 213) 0%, white 100%);
+  font-family: "SUSE", sans-serif;
+}
